@@ -1,0 +1,6 @@
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\dev\02-CollatzConjecture\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
